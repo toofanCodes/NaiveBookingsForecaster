@@ -1,7 +1,5 @@
 # Airline Booking Demand Forecasting
 
-**Team:** Saran | Sanskriti | Vanessa | Abhinav
-
 ## Objective
 
 The goal of this project is to develop a simple, interpretable forecast model for airline bookings that minimizes the Mean Absolute Scaled Error (MASE) compared to a naïve baseline. We focus on analytics and business logic, not machine learning, to keep the approach transparent and practical.
