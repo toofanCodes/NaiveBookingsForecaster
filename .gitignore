@@ -3,3 +3,4 @@ airline_data_validation.csv
 EDACode.ipynb
 output
 .venv
+.DS_Store
